@@ -2,7 +2,7 @@
   "appointment": [
     {
       "address": "2199 Canada St",
-      "appointmentDateTime": "July 17, 2022 03:24:00",
+      "appointmentDateTime": "07/17/2022 15:00",
       "appointmentType": "Vaccine",
       "city": "Lake George",
       "clinicId": 111,
