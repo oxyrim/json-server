@@ -1,0 +1,17 @@
+{
+  "appointment": [
+    {
+      "address": "2199 Canada St",
+      "appointmentDateTime": "July 17, 2022 03:24:00",
+      "appointmentType": "Vaccine",
+      "city": "Lake George",
+      "clinicId": 111,
+      "email": "email@email.com",
+      "firstName": "Dwight",
+      "lastName": "Schrute",
+      "phoneNumber": "11122223333",
+      "state": "VA",
+      "zipCode": "201901"
+    }
+  ]
+}
